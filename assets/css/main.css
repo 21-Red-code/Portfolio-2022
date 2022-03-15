@@ -286,6 +286,11 @@ table {
 	margin-bottom: 2em;
 }
 
+/* Recent projects */
+.row section .col-8 {
+  margin-left: 16% !important;
+}
+
 /* Container */
 
 .container {
